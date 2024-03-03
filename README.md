@@ -22,7 +22,7 @@
 - **Git | GitHub**
 
 ## Contáctame 📬
-- LinkedIn: [Diego Narvaez]([https://www.linkedin.com/in/diego-federico-narvaez/])
+- LinkedIn: [Diego Narvaez](https://www.linkedin.com/in/diego-federico-narvaez/).
 - Correo Electrónico: diegonvz96@hotmail.com
 
 
