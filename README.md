@@ -17,7 +17,7 @@
 - **Spring Boot**
 - **Spring Data JPA | Spring Security**
 - **Hibernate**
-- **SQL | MySQL
+- **SQL | MySQL**
 - **JUnit & Mockito**
 - **Git | GitHub**
 
